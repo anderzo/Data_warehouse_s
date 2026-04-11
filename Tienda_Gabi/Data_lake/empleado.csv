@@ -1,0 +1,21 @@
+id_empleado,codigo_empleado,nombre,edad,fecha_contratacion,id_tienda,id_cargo,salario
+1,EMP001,Alejandro Mateo,42,15/03/2025,1,1,45000
+2,EMP002,Santiago Sebastián,38,20/05/2025,2,1,45000
+3,EMP003,Leonardo Diego,45,10/02/2025,3,1,45000
+4,EMP004,Nicolás Samuel,40,05/04/2025,4,1,45000
+5,EMP005,Sofía Valentina,29,12/06/2025,1,2,32000
+6,EMP006,Isabella Lucía,31,25/08/2025,2,2,32000
+7,EMP007,Camila Victoria,27,14/11/2025,3,3,24000
+8,EMP008,Mariana Elena,33,02/01/2026,4,3,24000
+9,EMP009,Gabriela Daniela,24,19/07/2025,1,4,21000
+10,EMP010,Joaquín Tomás,26,22/09/2025,2,4,21000
+11,EMP011,Martina Natalia,22,30/10/2025,3,6,18000
+12,EMP012,Gabriel Javier,25,11/12/2025,4,6,18000
+13,EMP013,Beatriz Clara,28,08/02/2026,1,7,17500
+14,EMP014,Andrés Ricardo,23,15/05/2025,2,8,16000
+15,EMP015,Jimena Paola,21,20/06/2025,3,8,16000
+16,EMP016,Fernando Hugo,30,01/09/2025,4,9,15000
+17,EMP017,Adriana Raquel,26,18/10/2025,1,5,19500
+18,EMP018,Marcos Pablo,29,25/11/2025,2,5,19500
+19,EMP019,Sara Valeria,24,05/01/2026,3,6,18000
+20,EMP020,Felipe Adrián,22,14/02/2026,4,6,18000

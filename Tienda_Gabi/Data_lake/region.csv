@@ -1,0 +1,16 @@
+id_region,nombre_region,codigo_iso
+1,Arica y Parinacota,CL-AP
+2,Tarapacá,CL-TA
+3,Antofagasta,CL-AN
+4,Atacama,CL-AT
+5,Coquimbo,CL-CO
+6,Valparaíso,CL-VS
+7,Metropolitana de Santiago,CL-RM
+8,Libertador General Bernardo O'Higgins,CL-LI
+9,Maule,CL-ML
+10,Ñuble,CL-NB
+11,Biobío,CL-BI
+12,La Araucanía,CL-AR
+13,Los Ríos,CL-LR
+14,Los Lagos,CL-LL
+15,Aysén del General Carlos Ibáñez del Campo,CL-AI

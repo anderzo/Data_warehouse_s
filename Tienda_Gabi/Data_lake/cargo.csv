@@ -1,0 +1,10 @@
+id_cargo,nombre_cargo,salario_mensual
+1,Gerente de tienda,45000
+2,Subgerente,32000
+3,Encargado de inventario,24000
+4,Carnicero,21000
+5,Personal de seguridad,19500
+6,Cajero,18000
+7,Atención al cliente,17500
+8,Reponedor,16000
+9,Auxiliar de limpieza,15000

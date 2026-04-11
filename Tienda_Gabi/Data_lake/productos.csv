@@ -1,0 +1,76 @@
+id_p,id_cat,nombre_producto,stock
+1,1,Smartphone Alpha,9.0
+2,1,Audífonos Bluetooth,12.0
+3,1,Cargador Rápido,13.0
+4,1,Tablet 10 pulg,8.0
+5,1,Reloj Inteligente,10.0
+6,2,Set Herramientas Jardín,19.0
+7,2,Manguera Reforzada,7.0
+8,2,Lámpara Solar,16.0
+9,2,Maceta Cerámica,15.0
+10,2,Silla de Terraza,6.0
+11,3,Camiseta Algodón,8.0
+12,3,Pantalón Denim,5.0
+13,3,Calcetines Pack,3.0
+14,3,Chaqueta Impermeable,8.0
+15,3,Gorra Deportiva,8.0
+16,4,Mancuernas 5kg,9.0
+17,4,Mat de Yoga,8.0
+18,4,Cuerda para Saltar,11.0
+19,4,Botella Deportiva,12.0
+20,4,Banda Elástica,13.0
+21,5,Crema Hidratante,14.0
+22,5,Shampoo Orgánico,15.0
+23,5,Bloqueador Solar,16.0
+24,5,Cepillo Eléctrico,5.0
+25,5,Set de Maquillaje,7.0
+26,6,Arroz Premium 1kg,8.0
+27,6,Aceite de Oliva 500ml,9.0
+28,6,Café en Grano 250g,7.0
+29,6,Pasta Italiana 500g,7.0
+30,6,Vino Tinto Reserva,9.0
+31,7,Set de Legos,8.0
+32,7,Muñeca Articulada,12.0
+33,7,Auto a Control,11.0
+34,7,Rompecabezas 1000p,12.0
+35,7,Pelota de Fútbol,13.0
+36,8,Aceite Motor 1L,14.0
+37,8,Limpia Parabrisas,11.0
+38,8,Ambientador Auto,11.0
+39,8,Kit Emergencia,12.0
+40,8,Cera para Carro,11.0
+41,9,Cuaderno Universitario,10.0
+42,9,Set de Lápices,9.0
+43,9,Agenda 2026,8.0
+44,9,Resma Papel Oficio,8.0
+45,9,Mochila Básica,7.0
+46,10,Alimento Perro 3kg,7.0
+47,10,Arena Sanitaria 5kg,6.0
+48,10,Juguete Mordedor,5.0
+49,10,Collar Ajustable,4.0
+50,10,Snacks para Gato,4.0
+51,11,Taladro Inalámbrico,4.0
+52,11,Caja de Herramientas,2.0
+53,11,Martillo Acero,8.0
+54,11,Cinta Métrica 5m,9.0
+55,11,Juego de Destornilladores,9.0
+56,12,Consola Portátil,7.0
+57,12,Mando Inalámbrico,6.0
+58,12,Juego AAA Estreno,6.0
+59,12,Silla Gamer,7.0
+60,12,Teclado Mecánico,
+61,13,Pañales Etapa 3,8.0
+62,13,Biberón Térmico,8.0
+63,13,Toallitas Húmedas,12.0
+64,13,Coche Paseo,13.0
+65,13,Monitor de Bebé,14.0
+66,14,Escritorio Oficina,11.0
+67,14,Estante Libros,11.0
+68,14,Mesa de Centro,11.0
+69,14,Lámpara de Pie,11.0
+70,14,Puff Decorativo,11.0
+71,15,Guitarra Acústica,12.0
+72,15,Teclado 61 Teclas,12.0
+73,15,Ukelele Soprano,12.0
+74,15,Amplificador 10W,14.0
+75,15,Set de Percusión,15.0

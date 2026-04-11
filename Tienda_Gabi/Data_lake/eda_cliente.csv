@@ -1,0 +1,6 @@
+id_tipo_cliente,nombre_tipo,rango_edad_min,rango_edad_max
+1,Niños,0,12
+2,Joven,13,17
+3,Adulto,18,59
+4,Adulto Mayor,60,74
+5,Tercera Edad,75,120

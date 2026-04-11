@@ -1,0 +1,5 @@
+id_tienda,codigo_tienda,nombre_sucursal,id_region
+1,T1,Sucursal Norte,1
+2,T2,Sucursal Oriente,2
+3,T3,Sucursal Centro,3
+4,T4,Sucursal Sur,4

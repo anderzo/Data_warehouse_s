@@ -1,0 +1,6 @@
+id_nivel,nombre_nivel,beneficio_descuento,requerimiento_anual
+1,Bronce (Normal),0%,Sin requisito
+2,Plata,5%,Compras > 500
+3,Oro (Premium),10%,Compras > 1500
+4,Platino (VIP),15%,Compras > 3000
+5,Diamante (Elite),20%,Solo invitación
