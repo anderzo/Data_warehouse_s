@@ -1,2 +1,2 @@
 # Data_warehouse_s
-proyectos de data warehouses
+Proyectos de data warehouses, Tratameintos de datos, EDA, Pipelines 
